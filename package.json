@@ -1,6 +1,6 @@
 {
-  "name": "ts-csp",
-  "version": "1.0.0",
+  "name": "ts-csp-lib",
+  "version": "0.1.0",
   "author": "unigidu",
   "license": "MIT",
   "scripts": {

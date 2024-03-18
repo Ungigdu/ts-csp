@@ -1,0 +1,25 @@
+{
+  "name": "ts-csp",
+  "version": "1.0.0",
+  "author": "unigidu",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rimraf ./dist/*",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.202",
+    "@types/transducers.js": "^0.3.4",
+    "cross-env": "^7.0.3",
+    "nodemon": "^3.1.0",
+    "rimraf": "^5.0.5",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@types/node": "^20.11.24",
+    "lodash": "^4.17.21",
+    "transducers.js": "^0.3.2",
+    "ts-node": "^10.9.2"
+  }
+}
